@@ -1,5 +1,5 @@
 # Remake-Doctor-Office-IT
-Remake of Site <a href="https://doctorofficeit.com/)https://doctorofficeit.com/" target="_blank">Doctor Office IT</a>. 
+Remake of Site <a href="https://doctorofficeit.com/" target="_blank">Doctor Office IT</a>. 
 
 This new site has new functionality such as:
 
